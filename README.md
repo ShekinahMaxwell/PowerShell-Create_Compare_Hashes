@@ -37,7 +37,7 @@ Create a new file folder and name it "HashExample"
 <!--img width="1440" alt="02" src="https://github.com/user-attachments/assets/f2e54e39-7644-4dd2-a174-283a6f957afa"-->
 </p>
 <p>
-Create a text file by right-clicking into the folder> Type in a message, "Hello" for example> 
+Then create a text file by right-clicking into the "HashExample" folder> Type in a message, "Hello" for example.
 </p>
 <br />
 
@@ -45,6 +45,6 @@ Create a text file by right-clicking into the folder> Type in a message, "Hello"
 <!--img width="1381" alt="01" src="https://github.com/user-attachments/assets/56dc32c2-d30d-4459-b58d-f1337cf99c41"-->
 </p>
 <p>
-.
+Open a command line in PowerShell 
 </p>
 <br />
