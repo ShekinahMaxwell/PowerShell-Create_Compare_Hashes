@@ -9,6 +9,8 @@ This tutorial outlines the use of Hashing to help determine data integrity<br />
 <h2>Environments and Technologies Used</h2>
 
 - Windows PowerShell
+- TightVNC (for Windows Users)
+- RealVNC (for MacOS)
 
 <h2>Operating Systems Used </h2>
 
