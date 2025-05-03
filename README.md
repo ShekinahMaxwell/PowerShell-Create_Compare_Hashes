@@ -17,18 +17,18 @@ This tutorial outlines the use of Hashing to help determine data integrity<br />
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1: Create a new empty folder 
-- Step 2: 
-- Step 3
-- Step 4
+- Step 1: Create a new file folder 
+- Step 2: Enter PowerShell and type command Get - FileHash
+- Step 3:
+- Step 4: Notice the Hashes are different
 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<!--img width="1381" alt="01" src="https://github.com/user-attachments/assets/56dc32c2-d30d-4459-b58d-f1337cf99c41"-->
+<img width="856" alt="Different Hashes" src="https://github.com/user-attachments/assets/3bc65a21-99fb-4f26-897e-5fbcdf282931" />
 </p>
 <p>
-.<img width="856" alt="Different Hashes" src="https://github.com/user-attachments/assets/3bc65a21-99fb-4f26-897e-5fbcdf282931" />
+Create a new file folder and name it "HashExample"
 
 </p>
 <br />
@@ -37,7 +37,7 @@ This tutorial outlines the use of Hashing to help determine data integrity<br />
 <!--img width="1440" alt="02" src="https://github.com/user-attachments/assets/f2e54e39-7644-4dd2-a174-283a6f957afa"-->
 </p>
 <p>
-.
+Create a text file by right-clicking into the folder> Type in a message, "Hello" for example> 
 </p>
 <br />
 
