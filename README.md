@@ -1,6 +1,6 @@
 # PowerShell-Create_Compare_Hashes
 <p align="center">
-<img src="file:///Users/ki/Desktop/powershell%20-%20Imgur.png" alt="PowerShell Logo"/> 
+<img src="" alt="PowerShell Logo"/> 
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
