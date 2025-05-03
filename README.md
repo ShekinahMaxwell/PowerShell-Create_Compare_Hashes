@@ -6,11 +6,6 @@
 <h1> Create and Compare Hashes Lab Exercise</h1>
 This tutorial outlines the use of Hashing to help determine data integrity<br />
 
-
-<h2>Overview</h2>
-
--
-
 <h2>Environments and Technologies Used</h2>
 
 - Windows PowerShell
