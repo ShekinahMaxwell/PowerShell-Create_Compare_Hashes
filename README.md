@@ -3,8 +3,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell Logo"/> 
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1> Create and Compare Hashes Lab Exercise</h1>
+This tutorial outlines the use of Hashing to help determine data integrity<br />
 
 
 <h2>Overview</h2>
@@ -13,10 +13,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Windows PowerShell
 
 <h2>Operating Systems Used </h2>
 
