@@ -18,9 +18,12 @@ This tutorial outlines the use of Hashing to help determine data integrity<br />
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Step 1: Create a new file folder 
-- Step 2: Enter PowerShell and type command Get - FileHash
-- Step 3:
-- Step 4: Notice the Hashes are different
+- Step 2: Create a text file
+- Step 3: Enter commandline on PowerShell and type command "Get - FileHash"
+- Step 4: Notice a the output Hash for the file. Run the same command again and notice the hash for the file is the same.
+- Step 5: Change the text file
+- Step 6: Run the command "Get - FileHash" again
+- Step 5: Notice the Hash is now different
 
 <h2>Deployment and Configuration Steps</h2>
 
