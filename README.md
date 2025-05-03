@@ -18,10 +18,10 @@ This tutorial outlines the use of Hashing to help determine data integrity<br />
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Step 1: Create a new file folder 
-- Step 2: Create a text file
-- Step 3: Enter commandline on PowerShell and type command "Get - FileHash"
-- Step 4: Notice a the output Hash for the file. Run the same command again and notice the hash for the file is the same.
-- Step 5: Change the text file
+- Step 2: Create a text file from within the folder
+- Step 3: Enter commandline on PowerShell and type command "Get - FileHash" along with the name of the text file
+- Step 4: Notice the output Hash for the file. Run the same command again and notice the hash for the file is still the same.
+- Step 5: Change the text file's content
 - Step 6: Run the command "Get - FileHash" again
 - Step 5: Notice the Hash is now different
 
@@ -48,6 +48,22 @@ Then create a text file by right-clicking into the "HashExample" folder> Type in
 <!--img width="1381" alt="01" src="https://github.com/user-attachments/assets/56dc32c2-d30d-4459-b58d-f1337cf99c41"-->
 </p>
 <p>
-Open a command line in PowerShell 
+Open a command line in PowerShell and type command "Get - FileHash" along with the name of the text file you created. Notice a Hash (a fixed length, alphanumeric string) has been created. Run the same command again and see that the hash has not changed. 
+</p>
+<br />
+
+<p>
+<!--img width="1381" alt="01" src="https://github.com/user-attachments/assets/56dc32c2-d30d-4459-b58d-f1337cf99c41"-->
+</p>
+<p>
+Go back to the etxt file that your created and change the text inside.... enter "Bye" instead of "Hello" for example. Save.
+</p>
+<br />
+
+<p>
+<!--img width="1381" alt="01" src="https://github.com/user-attachments/assets/56dc32c2-d30d-4459-b58d-f1337cf99c41"-->
+</p>
+<p>
+Return to the command line and run the same command. Notice the hash produced is now different. Hashing is a method used to determine data integrity (CIA). The data is the same if the hashes are the same. If the Hashes ran at another point in time is different, then the data has changed.
 </p>
 <br />
