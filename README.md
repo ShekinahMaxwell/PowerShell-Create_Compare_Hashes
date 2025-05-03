@@ -19,8 +19,8 @@ This tutorial outlines the use of Hashing to help determine data integrity<br />
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
+- Step 1: Download TightVNC on Windows Computer
+- Step 2: Download RealVNC on Mac OS and used log-in credentals to access Windows computer
 - Step 3
 - Step 4
 
