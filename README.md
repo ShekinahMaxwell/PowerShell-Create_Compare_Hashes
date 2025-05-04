@@ -46,10 +46,11 @@ Within folder, create a new Text Document. Right-click the "HashExample" folder 
 <br />
 
 <p>
-<!--img width="1381" alt="01" src="https://github.com/user-attachments/assets/56dc32c2-d30d-4459-b58d-f1337cf99c41"-->
+<img width="1162" alt="Screen Shot 2025-05-04 at 4 29 09 PM" src="https://github.com/user-attachments/assets/2a69fe11-54cd-48f0-ad32-34c1abedb4df" />
+<img width="1210" alt="Screen Shot 2025-05-04 at 4 29 55 PM" src="https://github.com/user-attachments/assets/5bd0ff7e-bc7b-418f-b268-94be12996362" />
 </p>
 <p>
-Right click to open the "Md5sum" Text Document you created. Type in a message, "Hello" for example. Open a command line in PowerShell and type command "Get - FileHash" along with the name of the text file you created. Notice a Hash (a fixed length, alphanumeric string) has been created. Run the same command again and see that the hash has not changed. 
+Right click the "Md5sum" Text Document > Open > Type in a message, "Hello" for example. Open a command line in PowerShell and type command "Get - FileHash" along with the name of the text file you created. Notice a Hash (a fixed length, alphanumeric string) has been created. Run the same command again and see that the hash has not changed. 
 </p>
 <br />
 
