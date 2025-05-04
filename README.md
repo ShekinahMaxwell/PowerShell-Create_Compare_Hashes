@@ -82,7 +82,7 @@ Now go back to the Text Document (Md5sum.txt) created earlier and change the tex
 <br />
 
 <p>
-<img width="856" alt="Screen Shot 2025-05-03 at 5 08 07 PM" src="https://github.com/user-attachments/assets/e01317a2-90db-4b4e-9ef2-1fd6daf16fea"/>
+<img width="1141" alt="Screen Shot 2025-05-04 at 5 19 57 PM" src="https://github.com/user-attachments/assets/0b819cf3-847d-4067-9baf-4b552b2ca088" />
 </p>
 <p>
 Return to the PowerShell command line and run the same previous command. Notice the hash produced is now different. Hashing is a method used to determine data integrity. The contents of a file are said be unaltered if the hash produced remains the same. If the hash changes, then the contents of the file have changed.
