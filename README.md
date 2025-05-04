@@ -57,9 +57,18 @@ Right click the "Md5sum" Text Document > Open > Type in a message, "Hello" for e
 
 <p>
 <img width="1329" alt="Screen Shot 2025-05-04 at 4 31 28 PM" src="https://github.com/user-attachments/assets/c036ae00-51e5-4511-85ef-670421ff4cda" />
+<img width="1137" alt="Screen Shot 2025-05-04 at 4 43 41 PM" src="https://github.com/user-attachments/assets/f80b077f-af8c-4c38-8b05-e893475108ad" />
 </p>
 <p>
-Open Windows PowerShell and type command "Get - FileHash" along with the name of the text file you created. Notice a Hash (a fixed length, alphanumeric string) has been created. Run the same command again (by clicking the up-arrow on your key board or copy pasting) and see that the hash produced again has not changed. 
+Open Windows PowerShell > type command "Get-FileHash" "the file location" (Can copy-paste the file location into the command-line) "the name of the file" and add -Algorithm MD5 to the end > Enter
+</p>
+<br />
+
+<p>
+<!--img width="1381" alt="01" src="https://github.com/user-attachments/assets/56dc32c2-d30d-4459-b58d-f1337cf99c41"-->
+</p>
+<p>
+Notice a Hash (a fixed length, alphanumeric string) has been created. Run the same command again (by clicking the up-arrow on your key board or copy pasting) and see that the hash produced again has not changed.
 </p>
 <br />
 
