@@ -28,19 +28,18 @@ This tutorial outlines the use of Hashing to help determine data integrity<br />
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img width="856" alt="Different Hashes" src="https://github.com/user-attachments/assets/3bc65a21-99fb-4f26-897e-5fbcdf282931" />
+<img width="1328" alt="Screen Shot 2025-05-04 at 3 56 52 PM" src="https://github.com/user-attachments/assets/c9a7a52f-b7e1-4436-95cf-c2e2ce21706b" />
 </p>
 <p>
-Create a new file folder and name it "HashExample"
-
+Create a new file folder and name it "HashExample". Right-click the desktop > New > Folder
 </p>
 <br />
 
 <p>
-<!--img width="1440" alt="02" src="https://github.com/user-attachments/assets/f2e54e39-7644-4dd2-a174-283a6f957afa"-->
+<img width="1440" alt="02" src="https://github.com/user-attachments/assets/f2e54e39-7644-4dd2-a174-283a6f957afa"/>
 </p>
 <p>
-Then create a text file by right-clicking into the "HashExample" folder> Type in a message, "Hello" for example.
+Within this new file folder, create a new text document by right-clicking into the "HashExample" folder> New >Text Document> Type in a message, "Hello" for example.
 </p>
 <br />
 
@@ -61,7 +60,7 @@ Go back to the etxt file that your created and change the text inside.... enter 
 <br />
 
 <p>
-<!--img width="1381" alt="01" src="https://github.com/user-attachments/assets/56dc32c2-d30d-4459-b58d-f1337cf99c41"-->
+<img width="856" alt="Screen Shot 2025-05-03 at 5 08 07 PM" src="https://github.com/user-attachments/assets/e01317a2-90db-4b4e-9ef2-1fd6daf16fea"/>
 </p>
 <p>
 Return to the command line and run the same command. Notice the hash produced is now different. Hashing is a method used to determine data integrity (CIA). The data is the same if the hashes are the same. If the Hashes ran at another point in time is different, then the data has changed.
