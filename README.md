@@ -28,7 +28,8 @@ This tutorial outlines the use of Hashing to help determine data integrity<br />
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img width="1328" alt="Screen Shot" src="https://github.com/user-attachments/assets/c9a7a52f-b7e1-4436-95cf-c2e2ce21706b" />
+<img width="1328" alt="Screen Shot" src="https://github.com/user-attachments/assets/c9a7a52f-b7e1-4436-95cf-c2e2ce21706b"/>
+<img width="1184" alt="Screen Shot 2025-05-04 at 4 24 10 PM" src="https://github.com/user-attachments/assets/c61a1e3e-74f4-443d-aae7-a70a6d91e491" />
 </p>
 <p>
 Create a new file folder and name it "HashExample". Right-click the desktop > New > Folder
@@ -37,9 +38,10 @@ Create a new file folder and name it "HashExample". Right-click the desktop > Ne
 
 <p>
  <img width="1338" alt="Screen Shot 2025-05-04 at 4 12 08 PM" src="https://github.com/user-attachments/assets/86c90512-56c6-47db-8c46-b02bb79d14a7" />
+ <img width="1284" alt="Screen Shot 2025-05-04 at 4 17 15 PM" src="https://github.com/user-attachments/assets/43ec702e-e4c1-4948-a3bb-90ac8f0a5c07" />
 </p>
 <p>
-Within this file folder, create a new text document. Right-click the "HashExample" folder> New> Text Document> Name the file "Md5sum" for example. Then enter in Type in a message, "Hello" for example.
+Within folder, create a new Text Document. Right-click the "HashExample" folder > New > Text Document > Name the file "Md5sum" for example
 </p>
 <br />
 
@@ -47,7 +49,7 @@ Within this file folder, create a new text document. Right-click the "HashExampl
 <!--img width="1381" alt="01" src="https://github.com/user-attachments/assets/56dc32c2-d30d-4459-b58d-f1337cf99c41"-->
 </p>
 <p>
-Open a command line in PowerShell and type command "Get - FileHash" along with the name of the text file you created. Notice a Hash (a fixed length, alphanumeric string) has been created. Run the same command again and see that the hash has not changed. 
+Right click to open the "Md5sum" Text Document you created. Type in a message, "Hello" for example. Open a command line in PowerShell and type command "Get - FileHash" along with the name of the text file you created. Notice a Hash (a fixed length, alphanumeric string) has been created. Run the same command again and see that the hash has not changed. 
 </p>
 <br />
 
