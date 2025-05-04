@@ -28,7 +28,7 @@ This tutorial outlines the use of Hashing to help determine data integrity<br />
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img width="1328" alt="Screen Shot 2025-05-04 at 3 56 52 PM" src="https://github.com/user-attachments/assets/c9a7a52f-b7e1-4436-95cf-c2e2ce21706b" />
+<img width="1328" alt="Screen Shot" src="https://github.com/user-attachments/assets/c9a7a52f-b7e1-4436-95cf-c2e2ce21706b" />
 </p>
 <p>
 Create a new file folder and name it "HashExample". Right-click the desktop > New > Folder
@@ -36,10 +36,10 @@ Create a new file folder and name it "HashExample". Right-click the desktop > Ne
 <br />
 
 <p>
-<img width="1440" alt="02" src="https://github.com/user-attachments/assets/f2e54e39-7644-4dd2-a174-283a6f957afa"/>
+ <img width="1338" alt="Screen Shot 2025-05-04 at 4 12 08 PM" src="https://github.com/user-attachments/assets/86c90512-56c6-47db-8c46-b02bb79d14a7" />
 </p>
 <p>
-Within this new file folder, create a new text document by right-clicking into the "HashExample" folder> New >Text Document> Type in a message, "Hello" for example.
+Within this file folder, create a new text document. Right-click the "HashExample" folder> New> Text Document> Name the file "Md5sum" for example. Then enter in Type in a message, "Hello" for example.
 </p>
 <br />
 
