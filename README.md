@@ -74,10 +74,10 @@ Notice a Hash (a fixed length, alphanumeric string) has been created. Run the sa
 <br />
 
 <p>
-<!--img width="1381" alt="01" src="https://github.com/user-attachments/assets/56dc32c2-d30d-4459-b58d-f1337cf99c41"-->
+<img width="1142" alt="Screen Shot 2025-05-04 at 5 13 37 PM" src="https://github.com/user-attachments/assets/650e76b9-2c0b-47ae-841d-dff7ba559e71" />
 </p>
 <p>
-Go back to the etxt file that your created and change the text inside.... enter "Bye" instead of "Hello" for example. Save.
+Now go back to the Text Document (Md5sum.txt) created earlier and change the text content inside. Enter "Bye" instead of "Hello" for example > File > Save
 </p>
 <br />
 
@@ -85,6 +85,6 @@ Go back to the etxt file that your created and change the text inside.... enter 
 <img width="856" alt="Screen Shot 2025-05-03 at 5 08 07 PM" src="https://github.com/user-attachments/assets/e01317a2-90db-4b4e-9ef2-1fd6daf16fea"/>
 </p>
 <p>
-Return to the command line and run the same command. Notice the hash produced is now different. Hashing is a method used to determine data integrity (CIA). The data is the same if the hashes are the same. If the Hashes ran at another point in time is different, then the data has changed.
+Return to the PowerShell command line and run the same previous command. Notice the hash produced is now different. Hashing is a method used to determine data integrity. The contents of a file are said be unaltered if the hash produced remains the same. If the hash changes, then the contents of the file have changed.
 </p>
 <br />
