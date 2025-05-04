@@ -58,6 +58,7 @@ Right click the "Md5sum" Text Document > Open > Type in a message, "Hello" for e
 <p>
 <img width="1329" alt="Screen Shot 2025-05-04 at 4 31 28 PM" src="https://github.com/user-attachments/assets/c036ae00-51e5-4511-85ef-670421ff4cda" />
 <img width="1137" alt="Screen Shot 2025-05-04 at 4 43 41 PM" src="https://github.com/user-attachments/assets/f80b077f-af8c-4c38-8b05-e893475108ad" />
+<img width="1141" alt="Screen Shot 2025-05-04 at 5 03 32 PM" src="https://github.com/user-attachments/assets/2536ac2e-a81c-4663-a660-97bb1fa4eb32" />
 </p>
 <p>
 Open Windows PowerShell > type command "Get-FileHash" "the file location" (Can copy-paste the file location into the command-line) "the name of the file" and add -Algorithm MD5 to the end > Enter
@@ -65,10 +66,10 @@ Open Windows PowerShell > type command "Get-FileHash" "the file location" (Can c
 <br />
 
 <p>
-<!--img width="1381" alt="01" src="https://github.com/user-attachments/assets/56dc32c2-d30d-4459-b58d-f1337cf99c41"-->
+<img width="1145" alt="Screen Shot 2025-05-04 at 5 07 01 PM" src="https://github.com/user-attachments/assets/f3615fe4-6a59-4070-9eb7-9422a37f8acd" />
 </p>
 <p>
-Notice a Hash (a fixed length, alphanumeric string) has been created. Run the same command again (by clicking the up-arrow on your key board or copy pasting) and see that the hash produced again has not changed.
+Notice a Hash (a fixed length, alphanumeric string) has been created. Run the same command again (by either clicking the up-arrow on your key board or copy paste the previous command line and hit enter). See that the hash was produced again has not changed.
 </p>
 <br />
 
